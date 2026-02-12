@@ -1,11 +1,10 @@
 ---
 name: satirical-reclamation
-description: Transform criticism or negative perception by fully embodying and exaggerating
-  the caricature, making the criticism absurd through complete commitment.
+description: Transform criticism or negative perception by fully embodying and exaggerating the caricature, making the criticism absurd through complete commitment.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - absurdist
 - comedy
